@@ -1,0 +1,11 @@
+{
+  "name": "zxp_blog",
+  "version": "1.0.1",
+  "description": "个人博客的开发",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "郑肖平",
+  "license": "ISC"
+}
